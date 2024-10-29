@@ -2,7 +2,7 @@
 #Latihan 3: Buat program python untuk kasus berikut:
 #Kasus 1: Program Pemesanan Tiket Bioskop
 Buat Program yang menghitung harga tiket bioskop. Tiket Reguler berharga Rp.50.000, sedangkan tiket VIP berharga Rp.100.000. Jika user memiliki kartu member, mereka mendapatkan diskon 20%
-dari harga tiket. Program ini harus meminta type tiket dan status member dari user, lalu menghitung total harga yang harus dibayar. 
+dari harga tiket. Program ini harus meminta type tiket dan status member dari user, lalu menghitung total harga yang harus dibayar.  
 
 Menggunakan if else
 # Harga tiket
